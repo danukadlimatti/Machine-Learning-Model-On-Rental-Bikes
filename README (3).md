@@ -39,6 +39,6 @@ The Linear Regression Model on Boom bikes - To analyze the significant features 
 - numpy 📈
 
 ## 👩‍💻 Created by
-[@VasundharaLK](https://github.com/VasundharaLK)
+danukadlimatti
 
-For contact: vasundharalkadekodi@gmail.com
+For contact: danu54608@gmail.com
